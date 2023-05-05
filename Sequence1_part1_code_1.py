@@ -111,6 +111,7 @@ plt.title('Image')
 #image3=skio.imread('CH0SRC.TIF')
 
 #TO BE COMPLETED
+print("hi")
 
 # Display image3 by suing first skio.image() and second by usig plt.imshow()
 #What is the difference between both functions ?      
